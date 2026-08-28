@@ -3,6 +3,7 @@
 一个基于 **dsh-better-sidebar** 的 SDD（规范驱动开发，Spec-Driven Development）配套插件：在侧边栏提供一个 **Spec 工作台**，围绕 [OpenSpec](https://github.com/Fission-AI/OpenSpec) 的标准目录结构，让「先写规范 → 再实现 → 再验证」的流程一目了然、可操作。
 
 **核心亮点**：spec 不是存在浏览器里的数据，而是**工作区里真实的文件**（`openspec/` 目录）。host 半负责读写文件，client 半通过 Typert Remote 调用，勾选任务清单会直接写回 `tasks.md`。
+<img width="694" height="1044" alt="image" src="https://github.com/user-attachments/assets/aa097732-c2a2-4bdf-9d47-cadc24e8c9d2" />
 
 ## 功能
 
