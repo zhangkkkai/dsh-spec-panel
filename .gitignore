@@ -1,0 +1,8 @@
+node_modules/
+lib/
+*.log
+.DS_Store
+.pnpm-store/
+
+# pnpm auto-generated build-approval stub (regenerated on demand)
+pnpm-workspace.yaml
